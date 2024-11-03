@@ -3,7 +3,6 @@
 
 import FaqSection from "@/components/FaqSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
-import Landing from "@/components/Landing";
 import Navbar from "@/components/Navbar";
 import ProblemSolutionSection from "@/components/ProblemSolutionSection ";
 import ProgramBenefits from "@/components/ProgramBenefits";
